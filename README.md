@@ -1,4 +1,4 @@
-# python
+# Python
 
 Welcome to the Python Repository 🎉
 
