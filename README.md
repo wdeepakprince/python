@@ -8,22 +8,39 @@ This repository contains hands-on examples, tutorials, and experiments with **Py
 # Repository Structure
 .
 ├── input-output/          # examples
+
 ├── operators/             # examples
+
 ├── control-statement/     # examples
+
 ├── data-types/            # examples
+
 ├── functions/             # examples
+
 ├── modules/               # examples
+
 ├── unicode/               # examples
+
 ├── exception-handling/    # examples
+
 ├── file-handling/         # examples
+
 ├── classes/               # examples
+
 ├── threading/             # examples
+
 ├── string-formating/      # examples
+
 ├── class-polymorphism/    # examples
+
 ├── abstraction/           # examples
+
 ├── encapsulation/         # examples
+
 ├── requirements.txt
+
 └── README.md
+
 
 Each folder contains Python scripts (.py) organized by topic.
 
