@@ -51,7 +51,7 @@ Folder names reflect the respective topics.
 
 1️⃣ Clone this repository
 
-git clone https://github.com/your-username/python-data-science-playground.git
+git clone https://github.com/your-username/python.git
 
 cd python-data-science-playground
 
