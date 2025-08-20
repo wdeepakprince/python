@@ -1,2 +1,4 @@
-python>=3.13.0
-# Other Core Libraries - NOT Required
+python>=3.0.0
+opencv-python
+numpy
+matplotlib
