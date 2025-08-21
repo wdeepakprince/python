@@ -1,0 +1,2 @@
+# Treat .py files in this repository as Python files
+*.py linguist-language=Python
